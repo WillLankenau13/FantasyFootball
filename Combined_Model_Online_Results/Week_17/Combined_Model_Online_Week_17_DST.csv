@@ -1,0 +1,33 @@
+defense,TEAM,OPP,MATCHUP,START/SIT,proj_points,ID_yah,First Name_yah,Last Name_yah,ID + Name_yah,Position_yah,Team_yah,Opponent_yah,Game_yah,Time_yah,Salary_yah,FPPG_yah,Injury Status_yah,Starting_yah
+San Francisco 49ers,SF,at LV,3 out of 5 stars,A,7.7,nfl.t.25$nfl.g.2449013,San Francisco,49ers,nfl.t.25$nfl.g.2449013 - San Francisco 49ers,DEF,SF,LV,SF@LV,4:05PM EST,19,9.7,NA,NA
+Dallas Cowboys,DAL,at TEN,3 out of 5 stars,A,7.6,nfl.t.6$nfl.g.2448964,Dallas,Cowboys,nfl.t.6$nfl.g.2448964 - Dallas Cowboys,DEF,DAL,TEN,DAL@TEN,8:15PM EST,20,10.2,NA,NA
+Kansas City Chiefs,KC,vs. DEN,5 out of 5 stars,A-,7.3,nfl.t.12$nfl.g.2448990,Kansas City,Chiefs,nfl.t.12$nfl.g.2448990 - Kansas City Chiefs,DEF,KC,DEN,DEN@KC,1:00PM EST,17,6.6,NA,NA
+Baltimore Ravens,BAL,vs. PIT,3 out of 5 stars,B+,7.3,nfl.t.33$nfl.g.2448975,Baltimore,Ravens,nfl.t.33$nfl.g.2448975 - Baltimore Ravens,DEF,BAL,PIT,PIT@BAL,8:20PM EST,18,8.5,NA,NA
+Philadelphia Eagles,PHI,vs. NO,4 out of 5 stars,B+,7.3,nfl.t.21$nfl.g.2449004,Philadelphia,Eagles,nfl.t.21$nfl.g.2449004 - Philadelphia Eagles,DEF,PHI,NO,NO@PHI,1:00PM EST,20,9.4,NA,NA
+New York Giants,NYG,vs. IND,5 out of 5 stars,B,7.1,nfl.t.19$nfl.g.2449000,New York,Giants,nfl.t.19$nfl.g.2449000 - New York Giants,DEF,NYG,IND,IND@NYG,1:00PM EST,16,5.9,NA,NA
+Los Angeles Chargers,LAC,vs. LAR,5 out of 5 stars,B,6.9,nfl.t.24$nfl.g.2449023,Los Angeles,Chargers,nfl.t.24$nfl.g.2449023 - Los Angeles Chargers,DEF,LAC,LAR,LAR@LAC,4:25PM EST,13,5.9,NA,NA
+New England Patriots,NE,vs. MIA,2 out of 5 stars,B,6.9,nfl.t.17$nfl.g.2448995,New England,Patriots,nfl.t.17$nfl.g.2448995 - New England Patriots,DEF,NE,MIA,MIA@NE,1:00PM EST,19,11.3,NA,NA
+Tampa Bay Buccaneers,TB,vs. CAR,3 out of 5 stars,B,6.9,nfl.t.27$nfl.g.2449006,Tampa Bay,Buccaneers,nfl.t.27$nfl.g.2449006 - Tampa Bay Buccaneers,DEF,TB,CAR,CAR@TB,1:00PM EST,14,6.2,NA,NA
+Jacksonville Jaguars,JAC,at HOU,5 out of 5 stars,B-,6.8,nfl.t.30$nfl.g.2448985,Jacksonville,Jaguars,nfl.t.30$nfl.g.2448985 - Jacksonville Jaguars,DEF,JAX,HOU,JAX@HOU,1:00PM EST,18,7.1,NA,NA
+New York Jets,NYJ,at SEA,3 out of 5 stars,B-,6.7,nfl.t.20$nfl.g.2449017,New York,Jets,nfl.t.20$nfl.g.2449017 - New York Jets,DEF,NYJ,SEA,NYJ@SEA,4:05PM EST,17,7.3,NA,NA
+Washington Commanders,WAS,vs. CLE,3 out of 5 stars,C+,6.6,nfl.t.28$nfl.g.2449010,Washington,Commanders,nfl.t.28$nfl.g.2449010 - Washington Commanders,DEF,WAS,CLE,CLE@WAS,1:00PM EST,17,6.5,NA,NA
+Buffalo Bills,BUF,at CIN,2 out of 5 stars,C,6.6,nfl.t.2$nfl.g.2449026,Buffalo,Bills,nfl.t.2$nfl.g.2449026 - Buffalo Bills,DEF,BUF,CIN,BUF@CIN,8:30PM EST,16,8.6,NA,NA
+Cleveland Browns,CLE,at WAS,4 out of 5 stars,C,6.5,nfl.t.5$nfl.g.2449010,Cleveland,Browns,nfl.t.5$nfl.g.2449010 - Cleveland Browns,DEF,CLE,WAS,CLE@WAS,1:00PM EST,16,6.3,NA,NA
+Detroit Lions,DET,vs. CHI,4 out of 5 stars,C,6.5,nfl.t.8$nfl.g.2448979,Detroit,Lions,nfl.t.8$nfl.g.2448979 - Detroit Lions,DEF,DET,CHI,CHI@DET,1:00PM EST,15,5.1,NA,NA
+Pittsburgh Steelers,PIT,at BAL,2 out of 5 stars,C,6.4,nfl.t.23$nfl.g.2448975,Pittsburgh,Steelers,nfl.t.23$nfl.g.2448975 - Pittsburgh Steelers,DEF,PIT,BAL,PIT@BAL,8:20PM EST,11,5.9,NA,NA
+Atlanta Falcons,ATL,vs. ARI,3 out of 5 stars,C-,6,nfl.t.1$nfl.g.2448970,Atlanta,Falcons,nfl.t.1$nfl.g.2448970 - Atlanta Falcons,DEF,ATL,ARI,ARI@ATL,1:00PM EST,11,5,NA,NA
+Miami Dolphins,MIA,at NE,4 out of 5 stars,D+,6,nfl.t.15$nfl.g.2448995,Miami,Dolphins,nfl.t.15$nfl.g.2448995 - Miami Dolphins,DEF,MIA,NE,MIA@NE,1:00PM EST,14,5.7,NA,NA
+Green Bay Packers,GB,vs. MIN,3 out of 5 stars,D,6,nfl.t.9$nfl.g.2449021,Green Bay,Packers,nfl.t.9$nfl.g.2449021 - Green Bay Packers,DEF,GB,MIN,MIN@GB,4:25PM EST,12,6.1,NA,NA
+Carolina Panthers,CAR,at TB,2 out of 5 stars,D,5.9,nfl.t.29$nfl.g.2449006,Carolina,Panthers,nfl.t.29$nfl.g.2449006 - Carolina Panthers,DEF,CAR,TB,CAR@TB,1:00PM EST,16,6.5,NA,NA
+Arizona Cardinals,ARI,at ATL,3 out of 5 stars,D,5.9,nfl.t.22$nfl.g.2448970,Arizona,Cardinals,nfl.t.22$nfl.g.2448970 - Arizona Cardinals,DEF,ARI,ATL,ARI@ATL,1:00PM EST,16,6.6,NA,NA
+Seattle Seahawks,SEA,vs. NYJ,4 out of 5 stars,D,5.7,nfl.t.26$nfl.g.2449017,Seattle,Seahawks,nfl.t.26$nfl.g.2449017 - Seattle Seahawks,DEF,SEA,NYJ,NYJ@SEA,4:05PM EST,14,6.1,NA,NA
+Cincinnati Bengals,CIN,vs. BUF,2 out of 5 stars,D-,5.7,nfl.t.4$nfl.g.2449026,Cincinnati,Bengals,nfl.t.4$nfl.g.2449026 - Cincinnati Bengals,DEF,CIN,BUF,BUF@CIN,8:30PM EST,11,5.7,NA,NA
+Los Angeles Rams,LAR,at LAC,3 out of 5 stars,F,5.6,nfl.t.14$nfl.g.2449023,Los Angeles,Rams,nfl.t.14$nfl.g.2449023 - Los Angeles Rams,DEF,LAR,LAC,LAR@LAC,4:25PM EST,10,6.5,NA,NA
+Tennessee Titans,TEN,vs. DAL,1 out of 5 stars,F,5.5,nfl.t.10$nfl.g.2448964,Tennessee,Titans,nfl.t.10$nfl.g.2448964 - Tennessee Titans,DEF,TEN,DAL,DAL@TEN,8:15PM EST,10,5.7,NA,NA
+Indianapolis Colts,IND,at NYG,3 out of 5 stars,F,5.5,nfl.t.11$nfl.g.2449000,Indianapolis,Colts,nfl.t.11$nfl.g.2449000 - Indianapolis Colts,DEF,IND,NYG,IND@NYG,1:00PM EST,15,6.8,NA,NA
+New Orleans Saints,NO,at PHI,2 out of 5 stars,F,5.4,nfl.t.18$nfl.g.2449004,New Orleans,Saints,nfl.t.18$nfl.g.2449004 - New Orleans Saints,DEF,NO,PHI,NO@PHI,1:00PM EST,10,5.6,NA,NA
+Minnesota Vikings,MIN,at GB,3 out of 5 stars,F,5.3,nfl.t.16$nfl.g.2449021,Minnesota,Vikings,nfl.t.16$nfl.g.2449021 - Minnesota Vikings,DEF,MIN,GB,MIN@GB,4:25PM EST,14,6.5,NA,NA
+Houston Texans,HOU,vs. JAC,2 out of 5 stars,F,5.2,nfl.t.34$nfl.g.2448985,Houston,Texans,nfl.t.34$nfl.g.2448985 - Houston Texans,DEF,HOU,JAX,JAX@HOU,1:00PM EST,10,6,NA,NA
+Denver Broncos,DEN,at KC,1 out of 5 stars,F,5.1,nfl.t.7$nfl.g.2448990,Denver,Broncos,nfl.t.7$nfl.g.2448990 - Denver Broncos,DEF,DEN,KC,DEN@KC,1:00PM EST,14,6.1,NA,NA
+Las Vegas Raiders,LV,vs. SF,2 out of 5 stars,F,5,nfl.t.13$nfl.g.2449013,Las Vegas,Raiders,nfl.t.13$nfl.g.2449013 - Las Vegas Raiders,DEF,LV,SF,SF@LV,4:05PM EST,10,5.2,NA,NA
+Chicago Bears,CHI,at DET,1 out of 5 stars,F,4.4,nfl.t.3$nfl.g.2448979,Chicago,Bears,nfl.t.3$nfl.g.2448979 - Chicago Bears,DEF,CHI,DET,CHI@DET,1:00PM EST,10,3.9,NA,NA

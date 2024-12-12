@@ -1,0 +1,540 @@
+player,Position_yah,Opponent_yah,expected_points,Salary_yah,home_away,ex_ppd
+Josh Allen,QB,KC,25.072610103092774,41,Away,0.6115270756851896
+Justin Herbert,QB,DEN,14.703852701612904,32,Home,0.45949539692540325
+Tom Brady,QB,PIT,17.74442,28,Away,0.6337292857142858
+Patrick Mahomes,QB,BUF,17.79243667250438,34,Home,0.5233069609560111
+Aaron Rodgers,QB,NYJ,13.569243115727003,27,Home,0.5025645598417409
+Matthew Stafford,QB,CAR,12.1931625,25,Home,0.4877265
+Dak Prescott,QB,PHI,8.60462,28,Away,0.3073078571428572
+Joe Burrow,QB,NO,16.553324074074077,32,Away,0.5172913773148149
+Jalen Hurts,QB,DAL,20.521048500000003,37,Home,0.5546229324324325
+Kyler Murray,QB,SEA,20.67871844405594,36,Away,0.5744088456682205
+Kirk Cousins,QB,MIA,16.619738094302555,29,Away,0.5730944170449157
+Carson Wentz,QB,CHI,11.584334921465969,25,Away,0.46337339685863876
+Russell Wilson,QB,LAC,17.415740657193602,27,Away,0.6450274317479112
+Lamar Jackson,QB,NYG,21.905270428769022,39,Away,0.5616736007376673
+Jimmy Garoppolo,QB,ATL,15.28064985590778,24,Away,0.6366937439961575
+Mac Jones,QB,CLE,14.250050108695653,20,Away,0.7125025054347827
+Matt Ryan,QB,JAX,8.575670284463895,21,Home,0.40836525164113785
+Taylor Heinicke,QB,CHI,4.74201,20,Away,0.2371005
+Teddy Bridgewater,QB,MIN,8.957230000000001,23,Home,0.3894447826086957
+Trevor Lawrence,QB,IND,13.426538370883879,25,Away,0.5370615348353551
+Tua Tagovailoa,QB,MIN,15.05374,26,Home,0.57899
+Baker Mayfield,QB,LAR,10.628454120267259,21,Away,0.5061168628698695
+Daniel Jones,QB,BAL,19.603782186751797,31,Home,0.6323800705403806
+Sam Darnold,QB,LAR,6.45778,20,Away,0.322889
+Zach Wilson,QB,GB,13.01670592783505,23,Away,0.5659437359928282
+Justin Fields,QB,WAS,14.983318684151124,21,Home,0.7134913659119583
+Jameis Winston,QB,CIN,11.715563953744491,24,Home,0.4881484980726871
+Trevor Siemian,QB,WAS,8.72505,20,Home,0.4362525
+Andy Dalton,QB,CIN,11.572307643171806,20,Home,0.5786153821585903
+Tyler Huntley,QB,NYG,6.06792,20,Away,0.303396
+Tyrod Taylor,QB,BAL,9.345043910614525,20,Home,0.4672521955307262
+Jacoby Brissett,QB,NE,16.197513305613302,22,Home,0.7362506048006047
+Trey Lance,QB,ATL,11.835121527377519,20,Away,0.591756076368876
+Geno Smith,QB,ARI,19.580893524590167,28,Home,0.6993176258782202
+Drew Lock,QB,ARI,8.449739999999998,20,Home,0.42248699999999995
+Mike White,QB,GB,4.960100000000001,20,Away,0.24800500000000003
+Colt McCoy,QB,SEA,8.488140000000001,20,Away,0.4244070000000001
+Gardner Minshew II,QB,DAL,5.667660000000001,20,Home,0.28338300000000005
+Case Keenum,QB,KC,9.642280000000001,20,Away,0.48211400000000004
+Cooper Rush,QB,PHI,10.09236,20,Away,0.504618
+Joe Flacco,QB,GB,10.66933845360825,20,Away,0.5334669226804125
+Jordan Love,QB,NYJ,8.50356,20,Home,0.425178
+Mason Rudolph,QB,TB,6.90138,20,Home,0.34506899999999996
+Nick Foles,QB,JAX,6.53292,20,Home,0.326646
+Marcus Mariota,QB,SF,10.361365058149625,20,Home,0.5180682529074813
+Brandon Allen,QB,NO,6.403740000000001,20,Away,0.32018700000000005
+P J Walker,QB,LAR,7.615780000000001,20,Away,0.38078900000000004
+Brian Hoyer,QB,CLE,7.19118,20,Away,0.359559
+Nick Mullens,QB,MIA,8.43024,20,Away,0.421512
+Chad Henne,QB,BUF,5.02182,20,Home,0.251091
+Ian Book,QB,DAL,5.667660000000001,20,Home,0.28338300000000005
+Blaine Gabbert,QB,PIT,9.79668,20,Away,0.489834
+C J Beathard,QB,IND,6.8708,20,Away,0.34354
+Sam Ehlinger,QB,JAX,6.53292,20,Home,0.326646
+Kellen Mond,QB,NE,7.6796999999999995,20,Home,0.38398499999999997
+Brett Rypien,QB,LAC,8.44954,20,Away,0.42247700000000005
+Chase Daniel,QB,DEN,4.89762,20,Home,0.244881
+John Wolford,QB,CAR,7.41888,20,Home,0.370944
+Mitch Trubisky,QB,TB,12.87324939616253,20,Home,0.6436624698081265
+Kenny Pickett,QB,TB,15.347458950338597,25,Home,0.6138983580135439
+Bailey Zappe,QB,CLE,9.00555481884058,20,Away,0.450277740942029
+Skylar Thompson,QB,MIN,9.219779999999998,20,Home,0.4609889999999999
+Trace McSorley,QB,SEA,11.120430559440559,20,Away,0.556021527972028
+Sam Howell,QB,CHI,4.74201,20,Away,0.2371005
+Brock Purdy,QB,ATL,8.45726,20,Away,0.422863
+Desmond Ridder,QB,SF,4.50846,20,Home,0.225423
+Joshua Dobbs,QB,NE,7.6796999999999995,20,Home,0.38398499999999997
+Jake Luton,QB,CIN,6.363179999999999,20,Home,0.31815899999999997
+Kyle Trask,QB,PIT,9.79668,20,Away,0.489834
+Matt Corral,QB,LAR,6.45778,20,Away,0.322889
+Bryce Perkins,QB,CAR,7.41888,20,Home,0.370944
+Shane Buechele,QB,BUF,5.02182,20,Home,0.251091
+Will Grier,QB,PHI,5.97142,20,Away,0.29857100000000003
+Easton Stick,QB,DEN,4.89762,20,Home,0.244881
+Tyler Boyd,NA,NA,NA,NA,NA,NA
+Justin Jefferson,NA,NA,NA,NA,NA,NA
+Taysom Hill,NA,NA,NA,NA,NA,NA
+Braxton Berrios,NA,NA,NA,NA,NA,NA
+DeeJay Dallas,NA,NA,NA,NA,NA,NA
+Cooper Kupp,NA,NA,NA,NA,NA,NA
+Saquon Barkley,NA,NA,NA,NA,NA,NA
+Nick Chubb,NA,NA,NA,NA,NA,NA
+Tyreek Hill,NA,NA,NA,NA,NA,NA
+Austin Ekeler,NA,NA,NA,NA,NA,NA
+Christian McCaffrey,NA,NA,NA,NA,NA,NA
+Stefon Diggs,NA,NA,NA,NA,NA,NA
+Breece Hall,NA,NA,NA,NA,NA,NA
+Aaron Jones,NA,NA,NA,NA,NA,NA
+Leonard Fournette,NA,NA,NA,NA,NA,NA
+Miles Sanders,NA,NA,NA,NA,NA,NA
+Dalvin Cook,NA,NA,NA,NA,NA,NA
+Jeff Wilson Jr,NA,NA,NA,NA,NA,NA
+Rhamondre Stevenson,NA,NA,NA,NA,NA,NA
+Khalil Herbert,NA,NA,NA,NA,NA,NA
+A J Brown,NA,NA,NA,NA,NA,NA
+Joe Mixon,NA,NA,NA,NA,NA,NA
+Courtland Sutton,NA,NA,NA,NA,NA,NA
+Jaylen Waddle,NA,NA,NA,NA,NA,NA
+Marquise Brown,NA,NA,NA,NA,NA,NA
+Tyler Lockett,NA,NA,NA,NA,NA,NA
+Mike Williams,NA,NA,NA,NA,NA,NA
+Deebo Samuel,NA,NA,NA,NA,NA,NA
+Chris Olave,NA,NA,NA,NA,NA,NA
+Terry McLaurin,NA,NA,NA,NA,NA,NA
+DK Metcalf,NA,NA,NA,NA,NA,NA
+Jonathan Taylor,NA,NA,NA,NA,NA,NA
+Cordarrelle Patterson,NA,NA,NA,NA,NA,NA
+Antonio Gibson,NA,NA,NA,NA,NA,NA
+Rashaad Penny,NA,NA,NA,NA,NA,NA
+Clyde Edwards Helaire,NA,NA,NA,NA,NA,NA
+David Montgomery,NA,NA,NA,NA,NA,NA
+DeVonta Smith,NA,NA,NA,NA,NA,NA
+Mark Andrews,NA,NA,NA,NA,NA,NA
+Travis Kelce,NA,NA,NA,NA,NA,NA
+CeeDee Lamb,NA,NA,NA,NA,NA,NA
+Ja Marr Chase,NA,NA,NA,NA,NA,NA
+Christian Kirk,NA,NA,NA,NA,NA,NA
+Travis Etienne Jr,NA,NA,NA,NA,NA,NA
+Curtis Samuel,NA,NA,NA,NA,NA,NA
+Dallas Goedert,NA,NA,NA,NA,NA,NA
+Ezekiel Elliott,NA,NA,NA,NA,NA,NA
+James Robinson,NA,NA,NA,NA,NA,NA
+Kareem Hunt,NA,NA,NA,NA,NA,NA
+Raheem Mostert,NA,NA,NA,NA,NA,NA
+Tony Pollard,NA,NA,NA,NA,NA,NA
+Mike Evans,NA,NA,NA,NA,NA,NA
+Devin Singletary,NA,NA,NA,NA,NA,NA
+Tee Higgins,NA,NA,NA,NA,NA,NA
+AJ Dillon,NA,NA,NA,NA,NA,NA
+Alvin Kamara,NA,NA,NA,NA,NA,NA
+Gabe Davis,NA,NA,NA,NA,NA,NA
+Amari Cooper,NA,NA,NA,NA,NA,NA
+James Conner,NA,NA,NA,NA,NA,NA
+Corey Davis,NA,NA,NA,NA,NA,NA
+Melvin Gordon III,NA,NA,NA,NA,NA,NA
+Tyler Higbee,NA,NA,NA,NA,NA,NA
+Damien Harris,NA,NA,NA,NA,NA,NA
+Najee Harris,NA,NA,NA,NA,NA,NA
+David Njoku,NA,NA,NA,NA,NA,NA
+Michael Pittman Jr,NA,NA,NA,NA,NA,NA
+Javonte Williams,NA,NA,NA,NA,NA,NA
+Garrett Wilson,NA,NA,NA,NA,NA,NA
+Noah Brown,NA,NA,NA,NA,NA,NA
+Diontae Johnson,NA,NA,NA,NA,NA,NA
+Jakobi Meyers,NA,NA,NA,NA,NA,NA
+Drake London,NA,NA,NA,NA,NA,NA
+Michael Carter,NA,NA,NA,NA,NA,NA
+JuJu Smith Schuster,NA,NA,NA,NA,NA,NA
+Marquez Valdes Scantling,NA,NA,NA,NA,NA,NA
+George Pickens,NA,NA,NA,NA,NA,NA
+Randall Cobb,NA,NA,NA,NA,NA,NA
+Devin Duvernay,NA,NA,NA,NA,NA,NA
+Adam Thielen,NA,NA,NA,NA,NA,NA
+Brandon Aiyuk,NA,NA,NA,NA,NA,NA
+J D McKissic,NA,NA,NA,NA,NA,NA
+Rashod Bateman,NA,NA,NA,NA,NA,NA
+Darnell Mooney,NA,NA,NA,NA,NA,NA
+Jerry Jeudy,NA,NA,NA,NA,NA,NA
+DJ Moore,NA,NA,NA,NA,NA,NA
+Pat Freiermuth,NA,NA,NA,NA,NA,NA
+Eno Benjamin,NA,NA,NA,NA,NA,NA
+Zach Ertz,NA,NA,NA,NA,NA,NA
+Nelson Agholor,NA,NA,NA,NA,NA,NA
+Romeo Doubs,NA,NA,NA,NA,NA,NA
+Alec Pierce,NA,NA,NA,NA,NA,NA
+Gerald Everett,NA,NA,NA,NA,NA,NA
+Olamide Zaccheaus,NA,NA,NA,NA,NA,NA
+Tyler Allgeier,NA,NA,NA,NA,NA,NA
+Allen Lazard,NA,NA,NA,NA,NA,NA
+Marvin Jones Jr,NA,NA,NA,NA,NA,NA
+Robbie Anderson,NA,NA,NA,NA,NA,NA
+Darrell Henderson Jr,NA,NA,NA,NA,NA,NA
+Greg Dortch,NA,NA,NA,NA,NA,NA
+Elijah Moore,NA,NA,NA,NA,NA,NA
+Tyler Conklin,NA,NA,NA,NA,NA,NA
+Donovan Peoples Jones,NA,NA,NA,NA,NA,NA
+DeVante Parker,NA,NA,NA,NA,NA,NA
+Joshua Palmer,NA,NA,NA,NA,NA,NA
+Zay Jones,NA,NA,NA,NA,NA,NA
+Ben Skowronek,NA,NA,NA,NA,NA,NA
+Richie James Jr,NA,NA,NA,NA,NA,NA
+Chase Claypool,NA,NA,NA,NA,NA,NA
+Russell Gage,NA,NA,NA,NA,NA,NA
+Ashton Dulin,NA,NA,NA,NA,NA,NA
+Michael Thomas,NA,NA,NA,NA,NA,NA
+DeAndre Carter,NA,NA,NA,NA,NA,NA
+Cam Akers,NA,NA,NA,NA,NA,NA
+Evan Engram,NA,NA,NA,NA,NA,NA
+Jarvis Landry,NA,NA,NA,NA,NA,NA
+Samaje Perine,NA,NA,NA,NA,NA,NA
+Mark Ingram II,NA,NA,NA,NA,NA,NA
+Joshua Kelley,NA,NA,NA,NA,NA,NA
+Kenneth Walker III,NA,NA,NA,NA,NA,NA
+Isaiah McKenzie,NA,NA,NA,NA,NA,NA
+K J Osborn,NA,NA,NA,NA,NA,NA
+Chris Godwin,NA,NA,NA,NA,NA,NA
+Hayden Hurst,NA,NA,NA,NA,NA,NA
+Jerick McKinnon,NA,NA,NA,NA,NA,NA
+Chase Edmonds,NA,NA,NA,NA,NA,NA
+Sterling Shepard,NA,NA,NA,NA,NA,NA
+Equanimeous St Brown,NA,NA,NA,NA,NA,NA
+Kendrick Bourne,NA,NA,NA,NA,NA,NA
+Alexander Mattison,NA,NA,NA,NA,NA,NA
+Kyle Pitts,NA,NA,NA,NA,NA,NA
+J K Dobbins,NA,NA,NA,NA,NA,NA
+Mecole Hardman,NA,NA,NA,NA,NA,NA
+Justice Hill,NA,NA,NA,NA,NA,NA
+Jahan Dotson,NA,NA,NA,NA,NA,NA
+Isiah Pacheco,NA,NA,NA,NA,NA,NA
+Jaylen Warren,NA,NA,NA,NA,NA,NA
+Jauan Jennings,NA,NA,NA,NA,NA,NA
+Will Dissly,NA,NA,NA,NA,NA,NA
+Mo Alie Cox,NA,NA,NA,NA,NA,NA
+Dante Pettis,NA,NA,NA,NA,NA,NA
+Irv Smith Jr,NA,NA,NA,NA,NA,NA
+Tre Quan Smith,NA,NA,NA,NA,NA,NA
+Nyheim Hines,NA,NA,NA,NA,NA,NA
+Juwan Johnson,NA,NA,NA,NA,NA,NA
+Robert Tonyan,NA,NA,NA,NA,NA,NA
+KhaDarel Hodge,NA,NA,NA,NA,NA,NA
+James Cook,NA,NA,NA,NA,NA,NA
+Kylen Granson,NA,NA,NA,NA,NA,NA
+Rachaad White,NA,NA,NA,NA,NA,NA
+Zack Moss,NA,NA,NA,NA,NA,NA
+Mike Boone,NA,NA,NA,NA,NA,NA
+Cole Kmet,NA,NA,NA,NA,NA,NA
+Colby Parkinson,NA,NA,NA,NA,NA,NA
+Parris Campbell,NA,NA,NA,NA,NA,NA
+Dyami Brown,NA,NA,NA,NA,NA,NA
+Dawson Knox,NA,NA,NA,NA,NA,NA
+Allen Robinson II,NA,NA,NA,NA,NA,NA
+Logan Thomas,NA,NA,NA,NA,NA,NA
+Noah Fant,NA,NA,NA,NA,NA,NA
+Shi Smith,NA,NA,NA,NA,NA,NA
+Daniel Bellinger,NA,NA,NA,NA,NA,NA
+Mike Gesicki,NA,NA,NA,NA,NA,NA
+Cameron Brate,NA,NA,NA,NA,NA,NA
+George Kittle,NA,NA,NA,NA,NA,NA
+Khalil Shakir,NA,NA,NA,NA,NA,NA
+Darrel Williams,NA,NA,NA,NA,NA,NA
+Kyle Juszczyk,NA,NA,NA,NA,NA,NA
+Hunter Henry,NA,NA,NA,NA,NA,NA
+Kenneth Gainwell,NA,NA,NA,NA,NA,NA
+Caleb Huntley,NA,NA,NA,NA,NA,NA
+Julio Jones,NA,NA,NA,NA,NA,NA
+Ian Thomas,NA,NA,NA,NA,NA,NA
+Laviska Shenault Jr,NA,NA,NA,NA,NA,NA
+Darius Slayton,NA,NA,NA,NA,NA,NA
+Sony Michel,NA,NA,NA,NA,NA,NA
+Deon Jackson,NA,NA,NA,NA,NA,NA
+Quez Watkins,NA,NA,NA,NA,NA,NA
+Kendall Hinton,NA,NA,NA,NA,NA,NA
+Zach Gentry,NA,NA,NA,NA,NA,NA
+Jamal Agnew,NA,NA,NA,NA,NA,NA
+Eric Saubert,NA,NA,NA,NA,NA,NA
+Breshad Perriman,NA,NA,NA,NA,NA,NA
+Brian Robinson Jr,NA,NA,NA,NA,NA,NA
+Trent Sherfield,NA,NA,NA,NA,NA,NA
+Harrison Bryant,NA,NA,NA,NA,NA,NA
+Kenyan Drake,NA,NA,NA,NA,NA,NA
+Scotty Miller,NA,NA,NA,NA,NA,NA
+Dalton Schultz,NA,NA,NA,NA,NA,NA
+Adam Trautman,NA,NA,NA,NA,NA,NA
+Skyy Moore,NA,NA,NA,NA,NA,NA
+Cade Otton,NA,NA,NA,NA,NA,NA
+Johnny Mundt,NA,NA,NA,NA,NA,NA
+David Sills V,NA,NA,NA,NA,NA,NA
+John Bates,NA,NA,NA,NA,NA,NA
+Pharaoh Brown,NA,NA,NA,NA,NA,NA
+Avery Williams,NA,NA,NA,NA,NA,NA
+Christian Watson,NA,NA,NA,NA,NA,NA
+Matt Breida,NA,NA,NA,NA,NA,NA
+Michael Gallup,NA,NA,NA,NA,NA,NA
+Rondale Moore,NA,NA,NA,NA,NA,NA
+Tevin Coleman,NA,NA,NA,NA,NA,NA
+Quintin Morris,NA,NA,NA,NA,NA,NA
+Keenan Allen,NA,NA,NA,NA,NA,NA
+KJ Hamler,NA,NA,NA,NA,NA,NA
+Latavius Murray,NA,NA,NA,NA,NA,NA
+Jalen Guyton,NA,NA,NA,NA,NA,NA
+Jake Kumerow,NA,NA,NA,NA,NA,NA
+Marquez Callaway,NA,NA,NA,NA,NA,NA
+Justin Watson,NA,NA,NA,NA,NA,NA
+Mike Strachan,NA,NA,NA,NA,NA,NA
+Isaiah Likely,NA,NA,NA,NA,NA,NA
+Giovanni Ricci,NA,NA,NA,NA,NA,NA
+Jonnu Smith,NA,NA,NA,NA,NA,NA
+Noah Gray,NA,NA,NA,NA,NA,NA
+Dan Arnold,NA,NA,NA,NA,NA,NA
+Tutu Atwell,NA,NA,NA,NA,NA,NA
+Phillip Lindsay,NA,NA,NA,NA,NA,NA
+Jonathan Williams,NA,NA,NA,NA,NA,NA
+David Bell,NA,NA,NA,NA,NA,NA
+Marquise Goodwin,NA,NA,NA,NA,NA,NA
+Ray Ray McCloud III,NA,NA,NA,NA,NA,NA
+Andrew Beck,NA,NA,NA,NA,NA,NA
+Trestan Ebner,NA,NA,NA,NA,NA,NA
+Travis Homer,NA,NA,NA,NA,NA,NA
+Durham Smythe,NA,NA,NA,NA,NA,NA
+Albert Okwuegbunam,NA,NA,NA,NA,NA,NA
+Ross Dwelley,NA,NA,NA,NA,NA,NA
+A J Green,NA,NA,NA,NA,NA,NA
+Demarcus Robinson,NA,NA,NA,NA,NA,NA
+Cedrick Wilson Jr,NA,NA,NA,NA,NA,NA
+Josiah Deguara,NA,NA,NA,NA,NA,NA
+Jelani Woods,NA,NA,NA,NA,NA,NA
+Patrick Ricard,NA,NA,NA,NA,NA,NA
+Peyton Hendershot,NA,NA,NA,NA,NA,NA
+Tommy Tremble,NA,NA,NA,NA,NA,NA
+Parker Hesse,NA,NA,NA,NA,NA,NA
+Isaiah Hodgins,NA,NA,NA,NA,NA,NA
+Elijah Mitchell,NA,NA,NA,NA,NA,NA
+Grant Calcaterra,NA,NA,NA,NA,NA,NA
+Tanner Hudson,NA,NA,NA,NA,NA,NA
+Anthony Firkser,NA,NA,NA,NA,NA,NA
+Reggie Gilliam,NA,NA,NA,NA,NA,NA
+Zach Pascal,NA,NA,NA,NA,NA,NA
+Anthony Schwartz,NA,NA,NA,NA,NA,NA
+Mike Thomas,NA,NA,NA,NA,NA,NA
+Kendall Blanton,NA,NA,NA,NA,NA,NA
+Tyrion Davis Price,NA,NA,NA,NA,NA,NA
+Myles Gaskin,NA,NA,NA,NA,NA,NA
+Byron Pringle,NA,NA,NA,NA,NA,NA
+Brandon Powell,NA,NA,NA,NA,NA,NA
+Montrell Washington,NA,NA,NA,NA,NA,NA
+Boston Scott,NA,NA,NA,NA,NA,NA
+Terrace Marshall Jr,NA,NA,NA,NA,NA,NA
+Mitchell Wilcox,NA,NA,NA,NA,NA,NA
+Tyrie Cleveland,NA,NA,NA,NA,NA,NA
+Chuba Hubbard,NA,NA,NA,NA,NA,NA
+Tre McKitty,NA,NA,NA,NA,NA,NA
+Jeff Smith,NA,NA,NA,NA,NA,NA
+Jaelon Darden,NA,NA,NA,NA,NA,NA
+Velus Jones Jr,NA,NA,NA,NA,NA,NA
+Jalen Reagor,NA,NA,NA,NA,NA,NA
+Tyler Davis,NA,NA,NA,NA,NA,NA
+Alec Ingold,NA,NA,NA,NA,NA,NA
+Andre Baccellia,NA,NA,NA,NA,NA,NA
+Simi Fehoko,NA,NA,NA,NA,NA,NA
+Trey McBride,NA,NA,NA,NA,NA,NA
+Dax Milne,NA,NA,NA,NA,NA,NA
+Armani Rogers,NA,NA,NA,NA,NA,NA
+Kadarius Toney,NA,NA,NA,NA,NA,NA
+Cole Turner,NA,NA,NA,NA,NA,NA
+Trevon Wesco,NA,NA,NA,NA,NA,NA
+Dee Eskridge,NA,NA,NA,NA,NA,NA
+Kenny Golladay,NA,NA,NA,NA,NA,NA
+C J Ham,NA,NA,NA,NA,NA,NA
+Andy Isabella,NA,NA,NA,NA,NA,NA
+Jake Ferguson,NA,NA,NA,NA,NA,NA
+Lil Jordan Humphrey,NA,NA,NA,NA,NA,NA
+Tony Jones Jr,NA,NA,NA,NA,NA,NA
+Gary Brightwell,NA,NA,NA,NA,NA,NA
+Ryan Griffin,NA,NA,NA,NA,NA,NA
+Ko Kieft,NA,NA,NA,NA,NA,NA
+Trey Sermon,NA,NA,NA,NA,NA,NA
+Mike Davis,NA,NA,NA,NA,NA,NA
+D Onta Foreman,NA,NA,NA,NA,NA,NA
+Gunner Olszewski,NA,NA,NA,NA,NA,NA
+Dwayne Washington,NA,NA,NA,NA,NA,NA
+C J Uzomah,NA,NA,NA,NA,NA,NA
+Tylan Wallace,NA,NA,NA,NA,NA,NA
+Penny Hart,NA,NA,NA,NA,NA,NA
+Chris Manhertz,NA,NA,NA,NA,NA,NA
+Ihmir Smith Marsette,NA,NA,NA,NA,NA,NA
+River Cracraft,NA,NA,NA,NA,NA,NA
+Deonte Harty,NA,NA,NA,NA,NA,NA
+Ty Montgomery,NA,NA,NA,NA,NA,NA
+Jalen Nailor,NA,NA,NA,NA,NA,NA
+Cam Sims,NA,NA,NA,NA,NA,NA
+Stephen Sullivan,NA,NA,NA,NA,NA,NA
+Bryan Edwards,NA,NA,NA,NA,NA,NA
+Connor Heyward,NA,NA,NA,NA,NA,NA
+Zander Horvath,NA,NA,NA,NA,NA,NA
+Kyle Rudolph,NA,NA,NA,NA,NA,NA
+Miles Boykin,NA,NA,NA,NA,NA,NA
+Jody Fortson,NA,NA,NA,NA,NA,NA
+Chris Myarick,NA,NA,NA,NA,NA,NA
+Michael Burton,NA,NA,NA,NA,NA,NA
+Tyler Kroft,NA,NA,NA,NA,NA,NA
+Josh Oliver,NA,NA,NA,NA,NA,NA
+Jordan Mason,NA,NA,NA,NA,NA,NA
+Tyquan Thornton,NA,NA,NA,NA,NA,NA
+Wan Dale Robinson,NA,NA,NA,NA,NA,NA
+Nick Vannett,NA,NA,NA,NA,NA,NA
+Chris Evans,NA,NA,NA,NA,NA,NA
+Ty Johnson,NA,NA,NA,NA,NA,NA
+Jack Stoll,NA,NA,NA,NA,NA,NA
+Jalen Tolbert,NA,NA,NA,NA,NA,NA
+KaVontae Turpin,NA,NA,NA,NA,NA,NA
+Derek Watt,NA,NA,NA,NA,NA,NA
+Stephen Anderson,NA,NA,NA,NA,NA,NA
+Marcedes Lewis,NA,NA,NA,NA,NA,NA
+Damien Williams,NA,NA,NA,NA,NA,NA
+Curtis Hodges,NA,NA,NA,NA,NA,NA
+Eli Wolf,NA,NA,NA,NA,NA,NA
+Patrick Scales,NA,NA,NA,NA,NA,NA
+Khari Blasingame,NA,NA,NA,NA,NA,NA
+Jake Tonges,NA,NA,NA,NA,NA,NA
+N Keal Harry,NA,NA,NA,NA,NA,NA
+Washington Commanders,NA,NA,NA,NA,NA,NA
+Chicago Bears,NA,NA,NA,NA,NA,NA
+Marlon Mack,NA,NA,NA,NA,NA,NA
+Charlie Woerner,NA,NA,NA,NA,NA,NA
+Danny Gray,NA,NA,NA,NA,NA,NA
+Jordan Matthews,NA,NA,NA,NA,NA,NA
+Keith Smith,NA,NA,NA,NA,NA,NA
+Damiere Byrd,NA,NA,NA,NA,NA,NA
+Feleipe Franks,NA,NA,NA,NA,NA,NA
+Jared Bernhardt,NA,NA,NA,NA,NA,NA
+John FitzPatrick,NA,NA,NA,NA,NA,NA
+Beau Brinkley,NA,NA,NA,NA,NA,NA
+San Francisco 49ers,NA,NA,NA,NA,NA,NA
+Atlanta Falcons,NA,NA,NA,NA,NA,NA
+Matthew Slater,NA,NA,NA,NA,NA,NA
+Pierre Strong Jr,NA,NA,NA,NA,NA,NA
+Kristian Wilkerson,NA,NA,NA,NA,NA,NA
+D Ernest Johnson,NA,NA,NA,NA,NA,NA
+Demetric Felton,NA,NA,NA,NA,NA,NA
+Jerome Ford,NA,NA,NA,NA,NA,NA
+Michael Woods II,NA,NA,NA,NA,NA,NA
+Jesse James,NA,NA,NA,NA,NA,NA
+Jakeem Grant Sr,NA,NA,NA,NA,NA,NA
+Isaiah Weston,NA,NA,NA,NA,NA,NA
+New England Patriots,NA,NA,NA,NA,NA,NA
+Cleveland Browns,NA,NA,NA,NA,NA,NA
+Denzel Mims,NA,NA,NA,NA,NA,NA
+Lawrence Cager,NA,NA,NA,NA,NA,NA
+Jeremy Ruckert,NA,NA,NA,NA,NA,NA
+Nick Bawden,NA,NA,NA,NA,NA,NA
+Patrick Taylor,NA,NA,NA,NA,NA,NA
+Amari Rodgers,NA,NA,NA,NA,NA,NA
+Samori Toure,NA,NA,NA,NA,NA,NA
+Jack Coco,NA,NA,NA,NA,NA,NA
+New York Jets,NA,NA,NA,NA,NA,NA
+Green Bay Packers,NA,NA,NA,NA,NA,NA
+Kylin Hill,NA,NA,NA,NA,NA,NA
+JaMycal Hasty,NA,NA,NA,NA,NA,NA
+Luke Farrell,NA,NA,NA,NA,NA,NA
+Tim Jones,NA,NA,NA,NA,NA,NA
+Snoop Conner,NA,NA,NA,NA,NA,NA
+Kendric Pryor,NA,NA,NA,NA,NA,NA
+Willie Johnson,NA,NA,NA,NA,NA,NA
+Drew Ogletree,NA,NA,NA,NA,NA,NA
+Jacksonville Jaguars,NA,NA,NA,NA,NA,NA
+Indianapolis Colts,NA,NA,NA,NA,NA,NA
+Andrew DePaola,NA,NA,NA,NA,NA,NA
+Kene Nwangwu,NA,NA,NA,NA,NA,NA
+Ty Chandler,NA,NA,NA,NA,NA,NA
+Bisi Johnson,NA,NA,NA,NA,NA,NA
+Thomas Hennigan,NA,NA,NA,NA,NA,NA
+Salvon Ahmed,NA,NA,NA,NA,NA,NA
+Hunter Long,NA,NA,NA,NA,NA,NA
+Erik Ezukanma,NA,NA,NA,NA,NA,NA
+Tanner Conner,NA,NA,NA,NA,NA,NA
+John Lovett,NA,NA,NA,NA,NA,NA
+Adam Shaheen,NA,NA,NA,NA,NA,NA
+Minnesota Vikings,NA,NA,NA,NA,NA,NA
+Miami Dolphins,NA,NA,NA,NA,NA,NA
+Blake Proehl,NA,NA,NA,NA,NA,NA
+Trent Taylor,NA,NA,NA,NA,NA,NA
+Drew Sample,NA,NA,NA,NA,NA,NA
+Trayveon Williams,NA,NA,NA,NA,NA,NA
+Stanley Morgan,NA,NA,NA,NA,NA,NA
+Devin Asiasi,NA,NA,NA,NA,NA,NA
+Cal Adomitis,NA,NA,NA,NA,NA,NA
+Clark Harris,NA,NA,NA,NA,NA,NA
+Elijah Holyfield,NA,NA,NA,NA,NA,NA
+Zach Wood,NA,NA,NA,NA,NA,NA
+Cincinnati Bengals,NA,NA,NA,NA,NA,NA
+New Orleans Saints,NA,NA,NA,NA,NA,NA
+J P Holtz,NA,NA,NA,NA,NA,NA
+Dylan Soehner,NA,NA,NA,NA,NA,NA
+Nick Boyle,NA,NA,NA,NA,NA,NA
+James Proche II,NA,NA,NA,NA,NA,NA
+Charlie Kolar,NA,NA,NA,NA,NA,NA
+Slade Bolden,NA,NA,NA,NA,NA,NA
+Collin Johnson,NA,NA,NA,NA,NA,NA
+Baltimore Ravens,NA,NA,NA,NA,NA,NA
+New York Giants,NA,NA,NA,NA,NA,NA
+Gus Edwards,NA,NA,NA,NA,NA,NA
+Ke Shawn Vaughn,NA,NA,NA,NA,NA,NA
+Giovani Bernard,NA,NA,NA,NA,NA,NA
+Kenjon Barner,NA,NA,NA,NA,NA,NA
+Benny Snell Jr,NA,NA,NA,NA,NA,NA
+Steven Sims Jr,NA,NA,NA,NA,NA,NA
+Calvin Austin III,NA,NA,NA,NA,NA,NA
+Anthony Miller,NA,NA,NA,NA,NA,NA
+Jeremy McNichols,NA,NA,NA,NA,NA,NA
+Tampa Bay Buccaneers,NA,NA,NA,NA,NA,NA
+Pittsburgh Steelers,NA,NA,NA,NA,NA,NA
+Rashard Higgins,NA,NA,NA,NA,NA,NA
+Raheem Blackshear,NA,NA,NA,NA,NA,NA
+Andre Roberts,NA,NA,NA,NA,NA,NA
+Jake Funk,NA,NA,NA,NA,NA,NA
+Lance McCutcheon,NA,NA,NA,NA,NA,NA
+Kyren Williams,NA,NA,NA,NA,NA,NA
+J J Koski,NA,NA,NA,NA,NA,NA
+Carolina Panthers,NA,NA,NA,NA,NA,NA
+Los Angeles Rams,NA,NA,NA,NA,NA,NA
+Malcolm Brown,NA,NA,NA,NA,NA,NA
+Maxx Williams,NA,NA,NA,NA,NA,NA
+Jonathan Ward,NA,NA,NA,NA,NA,NA
+Keaontay Ingram,NA,NA,NA,NA,NA,NA
+Antoine Wesley,NA,NA,NA,NA,NA,NA
+Nick Bellore,NA,NA,NA,NA,NA,NA
+Dareke Young,NA,NA,NA,NA,NA,NA
+Tyler Ott,NA,NA,NA,NA,NA,NA
+Cody Thompson,NA,NA,NA,NA,NA,NA
+Arizona Cardinals,NA,NA,NA,NA,NA,NA
+Seattle Seahawks,NA,NA,NA,NA,NA,NA
+Taiwan Jones,NA,NA,NA,NA,NA,NA
+Tommy Sweeney,NA,NA,NA,NA,NA,NA
+Marquez Stevenson,NA,NA,NA,NA,NA,NA
+James Winchester,NA,NA,NA,NA,NA,NA
+Ronald Jones II,NA,NA,NA,NA,NA,NA
+Blake Bell,NA,NA,NA,NA,NA,NA
+Justyn Ross,NA,NA,NA,NA,NA,NA
+Buffalo Bills,NA,NA,NA,NA,NA,NA
+Kansas City Chiefs,NA,NA,NA,NA,NA,NA
+Rico Dowdle,NA,NA,NA,NA,NA,NA
+James Washington,NA,NA,NA,NA,NA,NA
+Ian Bunting,NA,NA,NA,NA,NA,NA
+Dallas Cowboys,NA,NA,NA,NA,NA,NA
+Philadelphia Eagles,NA,NA,NA,NA,NA,NA
+Britain Covey,NA,NA,NA,NA,NA,NA
+Tyree Jackson,NA,NA,NA,NA,NA,NA
+Eric Tomlinson,NA,NA,NA,NA,NA,NA
+Jalen Virgil,NA,NA,NA,NA,NA,NA
+Greg Dulcich,NA,NA,NA,NA,NA,NA
+Tim Patrick,NA,NA,NA,NA,NA,NA
+Damarea Crockett,NA,NA,NA,NA,NA,NA
+Donald Parham Jr,NA,NA,NA,NA,NA,NA
+Isaiah Spiller,NA,NA,NA,NA,NA,NA
+Denver Broncos,NA,NA,NA,NA,NA,NA
+Los Angeles Chargers,NA,NA,NA,NA,NA,NA
+Richard Rodgers,NA,NA,NA,NA,NA,NA
+Jason Moore Jr,NA,NA,NA,NA,NA,NA
+Stone Smartt,NA,NA,NA,NA,NA,NA

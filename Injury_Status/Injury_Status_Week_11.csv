@@ -1,0 +1,544 @@
+Player,Status
+Patrick Mahomes,NA
+Josh Allen,NA
+Aaron Rodgers,NA
+Joe Burrow,NA
+Justin Herbert,NA
+Kirk Cousins,NA
+Jared Goff,NA
+Matt Ryan,NA
+Jalen Hurts,NA
+Kyler Murray,Q
+Derek Carr,NA
+Jacoby Brissett,NA
+Russell Wilson,NA
+Davis Mills,NA
+Jimmy Garoppolo,NA
+Matthew Stafford,NA
+Lamar Jackson,Q
+Marcus Mariota,NA
+Ryan Tannehill,NA
+Daniel Jones,NA
+Andy Dalton,NA
+Justin Fields,NA
+Carson Wentz,IR
+Zach Wilson,NA
+Kenny Pickett,NA
+Mac Jones,NA
+Baker Mayfield,NA
+Cooper Rush,NA
+Joe Flacco,NA
+Jameis Winston,NA
+Dak Prescott,NA
+Taylor Heinicke,NA
+Mitch Trubisky,NA
+Bailey Zappe,NA
+P J Walker,O
+Sam Ehlinger,NA
+Colt McCoy,NA
+Brett Rypien,NA
+John Wolford,Q
+Trey Lance,IR
+Malik Willis,NA
+Taysom Hill,NA
+Jordan Love,NA
+Jarrett Stidham,NA
+Brock Purdy,NA
+Brian Hoyer,IR
+Christian McCaffrey,NA
+Tyler Boyd,NA
+Justin Jefferson,NA
+Gardner Minshew II,NA
+Brandon Allen,NA
+Trace McSorley,NA
+Tyrod Taylor,NA
+Case Keenum,NA
+Trevor Siemian,NA
+Najee Harris,NA
+Derrick Henry,NA
+Mack Hollins,NA
+Braxton Berrios,NA
+Chase Claypool,NA
+Rex Burkhead,NA
+Amari Cooper,NA
+Chase Daniel,NA
+Chad Henne,NA
+Cooper Kupp,IR
+Nick Mullens,NA
+Bryce Perkins,NA
+Saquon Barkley,NA
+Aaron Jones,NA
+Josh Jacobs,NA
+Nick Chubb,NA
+Stefon Diggs,NA
+Dameon Pierce,NA
+Dalvin Cook,NA
+Austin Ekeler,NA
+Joe Mixon,NA
+Rhamondre Stevenson,NA
+Alvin Kamara,NA
+Davante Adams,Q
+Tony Pollard,NA
+Miles Sanders,NA
+Terry McLaurin,NA
+Travis Kelce,NA
+A J Brown,NA
+CeeDee Lamb,NA
+Khalil Herbert,IR
+Jonathan Taylor,NA
+Breece Hall,IR
+Jamaal Williams,NA
+Chris Olave,NA
+Antonio Gibson,NA
+Curtis Samuel,NA
+JuJu Smith Schuster,O
+Ja Marr Chase,O
+Michael Pittman Jr,NA
+Devin Singletary,NA
+Amon Ra St Brown,NA
+David Montgomery,NA
+AJ Dillon,NA
+Deebo Samuel,NA
+Brandon Aiyuk,NA
+Tee Higgins,NA
+Gabe Davis,NA
+Dallas Goedert,IR
+Courtland Sutton,NA
+Allen Lazard,NA
+Michael Carter,NA
+Garrett Wilson,NA
+Tyler Allgeier,NA
+Donovan Peoples Jones,NA
+DJ Moore,NA
+T J Hockenson,NA
+Mark Andrews,Q
+Mike Williams,Q
+Marquise Brown,IR
+Eno Benjamin,NA
+DeVonta Smith,NA
+Ezekiel Elliott,Q
+Melvin Gordon III,NA
+Adam Thielen,NA
+Jakobi Meyers,NA
+Darnell Mooney,NA
+Diontae Johnson,NA
+James Robinson,NA
+James Conner,NA
+D Onta Foreman,NA
+Jerry Jeudy,O
+Clyde Edwards Helaire,NA
+Kareem Hunt,NA
+Cordarrelle Patterson,NA
+Marquez Valdes Scantling,NA
+Rondale Moore,NA
+David Njoku,Q
+Drake London,NA
+Zach Ertz,O
+Pat Freiermuth,NA
+D Andre Swift,NA
+Parris Campbell,NA
+Brandin Cooks,NA
+DeAndre Hopkins,Q
+Alec Pierce,NA
+Joshua Palmer,NA
+George Pickens,NA
+Kenyan Drake,NA
+Tyler Higbee,NA
+Darrell Henderson Jr,NA
+Devin Duvernay,NA
+Gerald Everett,Q
+Olamide Zaccheaus,NA
+Josh Reynolds,O
+Nico Collins,NA
+Corey Davis,O
+Damien Harris,NA
+Noah Brown,NA
+Robert Tonyan,NA
+DeAndre Carter,NA
+George Kittle,NA
+Jerick McKinnon,NA
+Robert Woods,NA
+Caleb Huntley,NA
+Randall Cobb,NA
+Mecole Hardman,IR
+Darius Slayton,NA
+Romeo Doubs,O
+Kalif Raymond,NA
+DeVante Parker,Q
+Jaylen Warren,NA
+Tyler Conklin,NA
+Kyle Pitts,NA
+Brian Robinson Jr,NA
+Hayden Hurst,NA
+Juwan Johnson,NA
+Isiah Pacheco,NA
+Allen Robinson II,NA
+Dontrell Hilliard,NA
+Rashod Bateman,IR
+Nick Westbrook Ikhine,NA
+Cole Kmet,NA
+Javonte Williams,IR
+Treylon Burks,NA
+J D McKissic,IR
+James Cook,NA
+Christian Watson,NA
+Tre Quan Smith,NA
+Ben Skowronek,NA
+Samaje Perine,NA
+Latavius Murray,NA
+Dalton Schultz,NA
+Isaiah McKenzie,NA
+Deon Jackson,NA
+Terrace Marshall Jr,NA
+Chris Moore,NA
+Mark Ingram II,O
+Hunter Henry,NA
+Dawson Knox,NA
+Kylen Granson,NA
+Nyheim Hines,NA
+Jordan Akins,NA
+Nelson Agholor,NA
+Austin Hooper,NA
+Greg Dortch,NA
+Chase Edmonds,NA
+K J Osborn,NA
+Jauan Jennings,NA
+Foster Moreau,NA
+Craig Reynolds,IR
+Justice Hill,NA
+Equanimeous St Brown,NA
+Alexander Mattison,NA
+Dante Pettis,NA
+Sammy Watkins,NA
+Jarvis Landry,NA
+Isaiah Likely,NA
+Robbie Anderson,NA
+Damiere Byrd,NA
+Elijah Moore,NA
+Richie James Jr,NA
+Cam Akers,NA
+Greg Dulcich,NA
+Hunter Renfrow,IR
+Quez Watkins,NA
+Laviska Shenault Jr,NA
+KJ Hamler,O
+KhaDarel Hodge,NA
+Kendrick Bourne,NA
+Kenneth Gainwell,NA
+Darren Waller,IR
+Ashton Dulin,NA
+Michael Thomas,IR
+Michael Gallup,NA
+Kendall Hinton,Q
+Chig Okonkwo,NA
+Irv Smith Jr,IR
+Kyle Juszczyk,NA
+Ray Ray McCloud III,NA
+Sony Michel,NA
+Phillip Dorsett II,NA
+Jahan Dotson,NA
+Daniel Bellinger,O
+Sterling Shepard,IR
+Jonnu Smith,NA
+Marquez Callaway,NA
+Demarcus Robinson,NA
+Mo Alie Cox,NA
+Matt Breida,NA
+Rashid Shaheed,NA
+Noah Gray,NA
+Mike Boone,IR
+Shi Smith,NA
+Gus Edwards,Q
+Harrison Bryant,NA
+Elijah Mitchell,NA
+Tom Kennedy,NA
+Dyami Brown,NA
+Kadarius Toney,NA
+David Bell,NA
+Chuba Hubbard,NA
+Tanner Hudson,NA
+Zack Moss,NA
+Wan Dale Robinson,Q
+Ian Thomas,NA
+Khalil Shakir,NA
+Logan Thomas,NA
+Avery Williams,NA
+Adam Trautman,NA
+Zach Pascal,NA
+Justin Watson,NA
+Darrel Williams,IR
+O J Howard,NA
+Pharaoh Brown,NA
+Josiah Deguara,NA
+Skyy Moore,NA
+David Sills V,NA
+Ross Dwelley,NA
+Ameer Abdullah,NA
+Tommy Tremble,NA
+DJ Chark Jr,NA
+Tyquan Thornton,NA
+Eric Saubert,NA
+Zach Gentry,NA
+Denzel Mims,NA
+Brock Wright,NA
+Armani Rogers,IR
+Brandon Bolden,NA
+Peyton Hendershot,NA
+John Bates,NA
+Brandon Powell,NA
+Isaiah Hodgins,NA
+C J Uzomah,NA
+Raheem Blackshear,NA
+Malik Davis,NA
+Jelani Woods,O
+Justin Jackson,NA
+Kyle Philips,IR
+Boston Scott,NA
+Keenan Allen,Q
+Johnny Mundt,NA
+Connor Heyward,NA
+Dare Ogunbowale,NA
+Samori Toure,NA
+Michael Bandy,NA
+Kevin White,NA
+Patrick Ricard,NA
+Jake Ferguson,NA
+Giovanni Ricci,Q
+Quintin Morris,NA
+A J Green,NA
+Jalen Virgil,NA
+Velus Jones Jr,NA
+Jalen Guyton,IR
+Jake Kumerow,IR
+Tutu Atwell,NA
+Marcus Johnson,NA
+Jamison Crowder,IR
+Mike Strachan,NA
+Andrew Beck,O
+Cam Sims,NA
+Malcolm Brown,NA
+Reggie Gilliam,Q
+Jeff Smith,NA
+Trestan Ebner,NA
+Cody Hollister,NA
+Jonathan Williams,Q
+Josh Oliver,NA
+Keaontay Ingram,NA
+Parker Hesse,NA
+Albert Okwuegbunam,NA
+Amari Rodgers,NA
+Hassan Haskins,NA
+Tre McKitty,NA
+Jack Stoll,NA
+Mitchell Wilcox,NA
+Stephen Sullivan,NA
+Geoff Swaim,NA
+Byron Pringle,NA
+Dwayne Washington,NA
+N Keal Harry,O
+Keelan Cole,NA
+Chris Myarick,NA
+Anthony Schwartz,NA
+Grant Calcaterra,NA
+Anthony Firkser,NA
+Kyren Williams,NA
+Mike Thomas,NA
+Tyrion Davis Price,NA
+Dax Milne,NA
+Trent Taylor,NA
+Eric Tomlinson,NA
+Ty Johnson,NA
+Montrell Washington,NA
+Brevin Jordan,NA
+Trey McBride,NA
+Chris Evans,Q
+Tyrie Cleveland,NA
+C J Ham,NA
+Van Jefferson,NA
+Jalen Reagor,NA
+Isaiah Spiller,NA
+Tyler Davis,NA
+Ben Ellefson,IR
+James Mitchell,NA
+KaVontae Turpin,NA
+Mike Davis,NA
+Jody Fortson,NA
+Simi Fehoko,IR
+Ryan Griffin,NA
+D Ernest Johnson,NA
+Cole Turner,NA
+Trevon Wesco,NA
+Kenny Golladay,Q
+Gunner Olszewski,NA
+Andy Isabella,NA
+Tylan Wallace,NA
+Michael Woods II,NA
+Keke Coutee,NA
+Marcedes Lewis,NA
+DJ Turner,NA
+Gary Brightwell,NA
+Jesper Horsted,NA
+Trey Sermon,NA
+Zamir White,NA
+Michael Burton,NA
+Keith Kirkwood,NA
+J J Taylor,NA
+Quintez Cephus,IR
+Bryan Edwards,NA
+Tyler Kroft,NA
+MyCole Pruitt,NA
+Derek Watt,NA
+Deonte Harty,IR
+Zander Horvath,NA
+Ty Montgomery,IR
+Jalen Nailor,NA
+Nick Vannett,NA
+Troy Hairston,NA
+Miles Boykin,NA
+Brycen Hopkins,NA
+Sean McKeon,NA
+Keith Smith,NA
+Tyron Johnson,NA
+Kylin Hill,NA
+Jordan Mason,NA
+Tommy Sweeney,NA
+Jakob Johnson,NA
+Kevin Harris,NA
+Richard Rodgers,NA
+Jalen Tolbert,NA
+Stephen Anderson,NA
+Adam Prentice,NA
+Teagan Quitoriano,NA
+Damien Williams,IR
+Shane Zylstra,NA
+Charlie Woerner,NA
+Danny Gray,NA
+Jordan Matthews,IR
+Jonathan Ward,IR
+Antoine Wesley,IR
+San Francisco 49ers,NA
+Arizona Cardinals,NA
+Chris Conley,NA
+Kevin Rader,O
+Tory Carter,NA
+Trenton Cannon,IR
+Racey McMath,IR
+Jack Coco,NA
+Tennessee Titans,NA
+Green Bay Packers,NA
+Patrick Taylor,NA
+Patrick Scales,NA
+Khari Blasingame,NA
+Feleipe Franks,O
+Desmond Ridder,NA
+John FitzPatrick,IR
+Beau Brinkley,IR
+Chicago Bears,NA
+Atlanta Falcons,NA
+Jared Bernhardt,IR
+Rashard Higgins,NA
+Andre Roberts,IR
+Sam Darnold,NA
+Matt Corral,IR
+Nick Boyle,NA
+James Proche II,NA
+Tyler Huntley,NA
+Charlie Kolar,NA
+Carolina Panthers,NA
+Baltimore Ravens,NA
+Joshua Dobbs,NA
+Kellen Mond,NA
+Demetric Felton,NA
+Jerome Ford,NA
+Jesse James,IR
+Jakeem Grant Sr,IR
+Isaiah Weston,IR
+Taiwan Jones,NA
+Marquez Stevenson,IR
+Cleveland Browns,NA
+Buffalo Bills,NA
+Sam Howell,NA
+Curtis Hodges,IR
+Eli Wolf,IR
+Kyle Allen,NA
+Darius Anderson,IR
+Washington Commanders,NA
+Houston Texans,NA
+Ian Book,NA
+Britain Covey,NA
+Nick Foles,NA
+Drew Ogletree,IR
+Philadelphia Eagles,NA
+Indianapolis Colts,NA
+Mike White,NA
+Jeremy Ruckert,NA
+Zonovan Knight,NA
+Nick Bawden,IR
+Matthew Slater,NA
+Pierre Strong Jr,NA
+Raleigh Webb,NA
+Kristian Wilkerson,IR
+New York Jets,NA
+New England Patriots,NA
+Darren Andrews,NA
+Kenny Yeboah,D
+Lance McCutcheon,NA
+J J Koski,IR
+J P Holtz,NA
+Zach Wood,NA
+Los Angeles Rams,NA
+New Orleans Saints,NA
+Dylan Soehner,PUP
+Nate Sudfeld,NA
+Greg Bell,IR
+Collin Johnson,IR
+Detroit Lions,NA
+New York Giants,NA
+Trinity Benson,IR
+Jason Cabinda,NA
+Brittain Brown,NA
+Sincere McCormick,IR
+Marlon Mack,NA
+Mitchell Fraboni,IR
+Tim Patrick,IR
+Damarea Crockett,IR
+Las Vegas Raiders,NA
+Denver Broncos,NA
+Jacob Hollister,NA
+James Winchester,NA
+Ronald Jones II,NA
+Shane Buechele,NA
+Blake Bell,IR
+Justyn Ross,IR
+Easton Stick,NA
+Jason Moore Jr,NA
+Kansas City Chiefs,NA
+Los Angeles Chargers,NA
+Keelan Doss,NA
+Larry Rountree III,NA
+Will Grier,NA
+James Washington,IR
+Ian Bunting,IR
+Andrew DePaola,NA
+Kene Nwangwu,NA
+Ty Chandler,IR
+Bisi Johnson,IR
+Thomas Hennigan,IR
+Dallas Cowboys,NA
+Minnesota Vikings,NA
+Rico Dowdle,IR
+Trayveon Williams,NA
+Stanley Morgan,NA
+Devin Asiasi,NA
+Cal Adomitis,NA
+Drew Sample,IR
+Clark Harris,IR
+Elijah Holyfield,IR
+Mason Rudolph,NA
+Benny Snell Jr,NA
+Steven Sims Jr,NA
+Calvin Austin III,IR
+Anthony Miller,IR
+Jeremy McNichols,IR
+Cincinnati Bengals,NA
+Pittsburgh Steelers,NA
