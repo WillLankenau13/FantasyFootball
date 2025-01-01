@@ -5,16 +5,7 @@ This repository contains the code for my first attempt at a model to predict the
 
 # Data
 
-### Yahoo
-Csv files downloaded weekly from Yahoo Daily Fantasy Football. Includes:
-
-Player Name
-Player Team and Opponent for the given week
-Player Injury Designation
-Yahoo Player Cost
-
-
-### Player Stats
+Csv files downloaded weekly from Yahoo Daily Fantasy Football.
 Player statistics were downloaded from [Stathead](Stathead.com).
 
 
